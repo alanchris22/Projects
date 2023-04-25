@@ -4,7 +4,7 @@ import random
 
 MAX_LINES= 3
 MAX_BET= 500
-MIN_BET= 25
+MIN_BET= 5
 WIN_AMT= 0
 u=0
 
