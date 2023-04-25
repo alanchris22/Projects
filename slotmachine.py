@@ -211,7 +211,7 @@ def main(balance, u=0):
     plot(slots, color_dict)
     
     if win < total_bet:
-        print("Your luck is shitty af, try again loser")
+        print("Tough luck, try again")
         print(f"You have lost ${total_bet-win}")
         repeat(balance, 1)
 
